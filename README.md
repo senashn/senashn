@@ -1,6 +1,6 @@
  👋 Hi, I’m Sena.
 - 👀 I’m an Artifical Intelligence & Mechatronics Engineer. 
-- 🐋 I'am interested in AI, ML & DL.
+- 🐋 I'm interested in AI, ML & DL.
 - 🌱 I’m currently learning PyTorch, Tensorflow and Keras.
 
 
