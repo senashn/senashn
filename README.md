@@ -1,4 +1,5 @@
  👋 Hi, I’m Sena.
+- 💻 I'm currently studying on artificial intelligence at Protek Sağlık Bilişim 
 - 👀 I’m an Artifical Intelligence & Mechatronics Engineer. 
 - 🐋 I'm interested in AI, ML & DL.
 - 🌱 I’m currently learning PyTorch, Tensorflow and Keras.
