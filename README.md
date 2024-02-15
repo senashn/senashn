@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sena and I'm an AI & Mechatronics Engineer from İstanbul.</p>
+<p align="left">My name is Sena and I'm an AI Research & Mechatronics Engineer from İstanbul.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently studying on artificial intelligence<br>📚 I'm currently learning PyTorch, Tensorflow and Keras.<br>🎯 Goals: To learn Generative AI<br>🐋 I'm interested in AI, ML & DL.</p>
+<p align="left">✨ I'm currently working on artificial intelligence<br>📚 I'm currently learning PyTorch, Tensorflow and Keras.<br>🎯 Goals: To learn Generative AI<br>🐋 I'm interested in AI, ML & DL.</p>
 
 ###
 
